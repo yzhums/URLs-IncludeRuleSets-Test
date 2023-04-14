@@ -1,0 +1,16 @@
+{
+    "name": "YZHUMS Ruleset",
+    "description": "The Ruleset file for manual",
+    "rules": [
+            {
+                "id": "AA0215",
+                "action": "Error",
+                "justification": "I want to report it as an error."
+            },
+            {
+                "id": "AA0246",
+                "action": "None",
+                "justification": "I don't want to check this rule."
+            }
+    ]
+}
